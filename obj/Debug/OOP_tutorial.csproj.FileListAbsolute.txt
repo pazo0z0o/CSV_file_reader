@@ -1,0 +1,9 @@
+C:\Users\gamis\Desktop\C#_Microsoft_tutorials\OOP training project\OOP_tutorial\obj\Debug\OOP_tutorial.csproj.AssemblyReference.cache
+C:\Users\gamis\Desktop\C#_Microsoft_tutorials\OOP training project\OOP_tutorial\obj\Debug\OOP_tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamis\Desktop\C#_Microsoft_tutorials\OOP training project\OOP_tutorial\obj\Debug\OOP_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\gamis\Desktop\C#_Microsoft_tutorials\OOP training project\OOP_tutorial\bin\Debug\values.csv
+C:\Users\gamis\Desktop\C#_Microsoft_tutorials\OOP training project\OOP_tutorial\bin\Debug\OOP_tutorial.exe.config
+C:\Users\gamis\Desktop\C#_Microsoft_tutorials\OOP training project\OOP_tutorial\bin\Debug\OOP_tutorial.exe
+C:\Users\gamis\Desktop\C#_Microsoft_tutorials\OOP training project\OOP_tutorial\bin\Debug\OOP_tutorial.pdb
+C:\Users\gamis\Desktop\C#_Microsoft_tutorials\OOP training project\OOP_tutorial\obj\Debug\OOP_tutorial.exe
+C:\Users\gamis\Desktop\C#_Microsoft_tutorials\OOP training project\OOP_tutorial\obj\Debug\OOP_tutorial.pdb
